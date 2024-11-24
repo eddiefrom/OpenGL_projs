@@ -24,6 +24,7 @@
     <ProjectGuid>{9D7C9005-2A18-4697-93F9-09CF368187BF}</ProjectGuid>
     <RootNamespace>OpenGLprojs</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Hermite_Bezie</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

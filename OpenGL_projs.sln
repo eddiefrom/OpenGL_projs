@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cube", "Cube\Cube.vcxproj", "{7450D697-7AA0-45C8-B0FC-7B135A21ACB8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hermine_Bezie", "Hermine_Bezie\Hermine_Bezie.vcxproj", "{9D7C9005-2A18-4697-93F9-09CF368187BF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hermite_Bezie", "Hermite_Bezie\Hermite_Bezie.vcxproj", "{9D7C9005-2A18-4697-93F9-09CF368187BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
