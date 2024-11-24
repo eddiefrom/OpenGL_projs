@@ -29,6 +29,5 @@ https://www.youtube.com/watch?v=A1LqGsyl3C4
 ### Circle
 * The program that displays a rotating polygon inscribed in a circle. The polygon’s shape (number of edges) can be adjusted using mouse clicks, and the circle and polygon both rotate when the left mouse button is pressed. The program demonstrates basic 2D graphics using OpenGL's GLUT library, and allows for interactivity through mouse input
 
-  ![Circle](https://github.com/user-attachments/assets/ecfe340f-6afb-4072-a7ea-37d596623a56)
-
+  ![Circle](https://github.com/user-attachments/assets/73ebe409-b0dd-46f7-857c-f7d37ab42262)
 
