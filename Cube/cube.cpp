@@ -276,7 +276,7 @@ void keyOperations() {
     if (keys['a']) 
 	{
 		if(angleY  != 180.0)
-			angleY += 0.001;
+			angleY += 0.01;
 		else
 			angleY = 0.0;
 
@@ -284,14 +284,14 @@ void keyOperations() {
     if (keys['d']) 
 	{
 		if(angleY  != 180.0)
-			angleY -= 0.001;
+			angleY -= 0.01;
 		else
 			angleY = 0.0;
 	}
 	if (keys['w']) 
 	{
 		if(angleX  != 180.0)
-			angleX -= 0.001;
+			angleX -= 0.01;
 		else
 			angleX = 0.0;
 	}
@@ -299,18 +299,18 @@ void keyOperations() {
     if (keys['s']) 
 	{
 		if(angleX != 180.0)
-			angleX += 0.001;
+			angleX += 0.01;
 		else
 			angleX = 0.0;
 
 	}
-    if (keys['+']) 
+    if (keys['m']) 
 	{
-		S += 0.1;
+		S += 0.5;
 	}
-    if (keys['-']) 
+    if (keys['n']) 
 	{
-		S -= 0.1;
+		S -= 0.5;
 	}
 		
 	 glutPostRedisplay();
